@@ -1,12 +1,12 @@
 # Hey my name is Josh!
 
-### I am the CEO of Arkahna and a published TTRPG Author. I am passionate about giving opportunities to the next generation of developer and empowering people from marginalised groups.
+### I am the CEO and Founder of Arkahna and a published DMs Guild Author. I am passionate about giving opportunities to the next generation of developer and empowering people from marginalised groups.
 
 - 💬 Ask me about Start-Ups, Modern Apps and Tabletop RPGS 
 - :male_sign: Pronouns: he/him
 - :man_teacher: I’m currently learning GitHub Actions and Terraform.
 
-📫 How to find me:
+:mailbox: How to find me:
 
 <a href="https://github.com/joshuaboys"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
 <a href="https://linkedin.com/in/joshboys"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
