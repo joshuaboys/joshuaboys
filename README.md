@@ -1,6 +1,7 @@
-# Hey my name is Josh!
+# **Hey my name is Josh!**
 
 ### I am the CEO and Founder of Arkahna and a published DMs Guild Author. I am passionate about giving opportunities to the next generation of developer and empowering people from marginalised groups.
+### I love building high performing teams in sustainable ways and finding new ways to do things. Just because it has always been done that way, doesn't mean there isn't a better way. 
 
 - 💬 Ask me about Start-Ups, Modern Apps and Tabletop RPGS 
 - :male_sign: Pronouns: he/him
@@ -19,7 +20,6 @@
 
 ### 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝s
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aneki)](https://github.com/joshuaboys/github-readme-twitter)
-
 
 ![Brand+Word-Horizontal](https://user-images.githubusercontent.com/38293002/132086825-0d716440-6649-42d2-8ece-7ebf6cb870b7.png)
 
