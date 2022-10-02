@@ -5,7 +5,7 @@
 
 - 💬 Ask me about Start-Ups, Modern Apps and Tabletop RPGS 
 - :male_sign: Pronouns: he/him
-- :man_teacher: I’m currently learning GitHub Actions and Terraform.
+- :man_teacher: I’m currently looking into Remix and Prisma.
 
 :mailbox: How to find me:
 
