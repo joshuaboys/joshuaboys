@@ -14,10 +14,6 @@
 <a href="https://twitter.com/aneki"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
 
 
-### :snake: My limited contributions getting eaten by a snake!
-![snake gif](https://github.com/joshuaboys/joshuaboys/blob/output/github-contribution-grid-snake.gif)
-
-
 ### 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝s
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aneki)](https://github.com/joshuaboys/github-readme-twitter)
 
