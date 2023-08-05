@@ -1,5 +1,7 @@
 # **Hey my name is Josh!**
 
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaboys)](https://github.com/anuraghazra/github-readme-stats)
+
 ### I am the CEO and Founder of Arkahna and a published DMs Guild Author. I am passionate about giving opportunities to the next generation of developer and empowering people from marginalised groups.
 ### I love building high performing teams in sustainable ways and finding new ways to do things. Just because it has always been done that way, doesn't mean there isn't a better way. 
 
