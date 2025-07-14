@@ -1,21 +1,38 @@
-# **Hey my name is Josh!**
+# 👋 Hey, my name is Josh!
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaboys&show_icons=true&theme=dark)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaboys&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaboys&layout=compact&theme=dark)
 
+---
 
-### I am the CEO and Founder of Arkahna and a published DMs Guild Author. I am passionate about giving opportunities to the next generation of developer and empowering people from marginalised groups.
-### I love building high performing teams in sustainable ways and finding new ways to do things. Just because it has always been done that way, doesn't mean there isn't a better way. 
+### 🚀 CEO & Founder at Arkahna | Published DMs Guild Author
 
-- 💬 Ask me about Start-Ups, Modern Apps and Tabletop RPGS 
-- :male_sign: Pronouns: he/him
-- :man_teacher: I have found myself coding again and really enjoying the current tooling and language/frameworks.
+I'm passionate about:
+- 🌱 Creating opportunities for the next generation of developers
+- 🌈 Empowering people from marginalized groups
+- 🏗️ Building high-performing, sustainable teams
+- 🧠 Challenging the status quo: just because it's always been done that way, doesn't mean it's the best way!
 
-:mailbox: How to find me:
+---
 
-<a href="https://github.com/joshuaboys"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
-<a href="https://linkedin.com/in/joshboys"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-<a href="https://twitter.com/aneki"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+- 💬 Ask me about Start-Ups, Modern Apps, and Tabletop RPGs
+- ⚧ Pronouns: he/him
+- 👨‍💻 Coding is my happy place—I'm loving the current tooling and frameworks!
 
+---
+
+### 📫 Connect with me
+
+<p>
+  <a href="https://github.com/joshuaboys" target="_blank"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+  <a href="https://linkedin.com/in/joshboys" target="_blank"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+  <a href="https://twitter.com/aneki" target="_blank"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+</p>
+
+---
 
 ![Brand+Word-Horizontal](https://user-images.githubusercontent.com/38293002/132086825-0d716440-6649-42d2-8ece-7ebf6cb870b7.png)
 
+---
+
+<sub>✨ Fun fact: This README includes stats for all my contributions, both public and private. Want to make a difference? Let's connect!</sub>
