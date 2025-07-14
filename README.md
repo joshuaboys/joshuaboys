@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Start-Ups, Modern Apps and Tabletop RPGS 
 - :male_sign: Pronouns: he/him
-- :man_teacher: I’m currently deep down the Generative AI rabbit hole and also working with marketing automation tooling.
+- :man_teacher: I have found myself coding again and really enjoying the current tooling and language/frameworks.
 
 :mailbox: How to find me:
 
