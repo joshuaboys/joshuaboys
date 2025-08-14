@@ -7,6 +7,7 @@
 ### 🚀 CEO & Founder at Arkahna | Published DMs Guild Author
 
 I'm passionate about:
+- 🦄 AI and emerging technology
 - 🌱 Creating opportunities for the next generation of developers
 - 🌈 Empowering people from marginalized groups
 - 🏗️ Building high-performing, sustainable teams
