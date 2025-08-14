@@ -1,7 +1,6 @@
 # 👋 Hey, my name is Josh!
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaboys&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaboys&layout=compact&theme=dark&count_private=true)
+![](https://raw.githubusercontent.com/joshuaboys/github-stats/master/generated/languages.svg#gh-dark-mode-only)  ![](https://raw.githubusercontent.com/joshuaboys/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ---
 
