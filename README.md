@@ -35,4 +35,3 @@ I'm passionate about:
 
 ---
 
-<sub>✨ Fun fact: This README includes stats for all my contributions, both public and private. Want to make a difference? Let's connect!</sub>
