@@ -17,7 +17,7 @@ I'm passionate about:
 
 - 💬 Ask me about Start-Ups, Modern Apps, and Tabletop RPGs
 - ⚧ Pronouns: he/him
-- 👨‍💻 Re-discovering my love of coding has been the biggest surprise of 2026
+- 👨‍💻 Re-discovering my love of coding has been the biggest surprise of 2025
 
 ---
 
