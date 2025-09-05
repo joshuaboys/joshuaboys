@@ -17,7 +17,7 @@ I'm passionate about:
 
 - 💬 Ask me about Start-Ups, Modern Apps, and Tabletop RPGs
 - ⚧ Pronouns: he/him
-- 👨‍💻 Coding is my happy place—I'm loving the current tooling and frameworks!
+- 👨‍💻 Re-discovering my love of coding has been the biggest surprise of 2026
 
 ---
 
