@@ -1,8 +1,6 @@
 # 👋 Hey, my name is Josh!
 
-![](https://raw.githubusercontent.com/joshuaboys/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)  
-
-![](https://raw.githubusercontent.com/joshuaboys/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/joshuaboys/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)   ![](https://raw.githubusercontent.com/joshuaboys/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
 
 ---
 
