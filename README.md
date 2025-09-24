@@ -15,7 +15,7 @@ I'm passionate about:
 
 ---
 
-- 💬 Ask me about Start-Ups, Modern Apps, and Tabletop RPGs
+- 💬 Ask me about Start-Ups, Modern Apps, AI, and Tabletop RPGs
 - ⚧ Pronouns: he/him
 - 👨‍💻 Re-discovering my love of coding has been the biggest surprise of 2025
 
