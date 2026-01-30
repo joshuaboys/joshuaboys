@@ -1,37 +1,20 @@
-# 👋 Hey, my name is Josh!
-
-![](https://raw.githubusercontent.com/joshuaboys/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)   ![](https://raw.githubusercontent.com/joshuaboys/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
+# Hey, I'm Josh!
 
 ---
 
-### 🚀 CEO & Founder at Arkahna | Published DMs Guild Author
+### 🚀 CEO & Founder at Arkahna
 
-I'm passionate about:
-- 🦄 AI and emerging technology
-- 🌱 Creating opportunities for the next generation of developers
-- 🌈 Empowering people from marginalized groups
-- 🏗️ Building high-performing, sustainable teams
-- 🧠 Challenging the status quo: just because it's always been done that way, doesn't mean it's the best way!
+I love living in the fastest paced era of technology we have ever seen.  I currently live and breaathe agentic systems while still being neck deep in the startup world.
 
 ---
 
-- 💬 Ask me about Start-Ups, Modern Apps, AI, and Tabletop RPGs
-- ⚧ Pronouns: he/him
-- 👨‍💻 Re-discovering my love of coding has been the biggest surprise of 2025
-
----
-
-### 📫 Connect with me
+### Hit me up if you want to connect.
 
 <p>
   <a href="https://github.com/joshuaboys" target="_blank"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://linkedin.com/in/joshboys" target="_blank"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
   <a href="https://twitter.com/aneki" target="_blank"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
 </p>
-
----
-
-![Brand+Word-Horizontal](https://user-images.githubusercontent.com/38293002/132086825-0d716440-6649-42d2-8ece-7ebf6cb870b7.png)
 
 ---
 
