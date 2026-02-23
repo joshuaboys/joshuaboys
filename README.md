@@ -1,15 +1,21 @@
 
-$ whoami
-josh
+```zsh
 
-ssh CEO@Arkahna
+% echo $USER
+josh_boys
 
-$ bat mission.txt
+% ssh ceo@arkahna
+➜ Connected.
+
+% alias mission='bat ~/mission.txt'
+% mission
 Empowering organisations to securely innovate
 by simplifying operational complexity.
 
-$ echo $CURRENT_OBSESSION
+% echo $CURRENT_OBSESSION
 Agentic Engineering
+
+```
 
 ---
 
