@@ -1,14 +1,17 @@
-# Hey, I'm Josh!
+
+$ whoami
+josh
+
+ssh CEO@Arkahna
+
+$ bat mission.txt
+Empowering organisations to securely innovate
+by simplifying operational complexity.
+
+$ echo $CURRENT_OBSESSION
+Agentic Engineering
 
 ---
-
-### 🚀 CEO & Founder at Arkahna
-
-I love living in the fastest paced era of technology we have ever seen.  I currently live and breaathe agentic systems while still being neck deep in the startup world.
-
----
-
-### Hit me up if you want to connect.
 
 <p>
   <a href="https://github.com/joshuaboys" target="_blank"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
@@ -18,7 +21,7 @@ I love living in the fastest paced era of technology we have ever seen.  I curre
 
 ---
 
-```text
+```ASCII
                   _    _
   __ _ _ __   ___| | _(_)
  / _` | '_ \ / _ \ |/ / |
