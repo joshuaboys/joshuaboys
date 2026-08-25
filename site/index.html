@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aneki's Software Shack</title>
+<meta name="description" content="Small sharp tools for agentic engineering. The project index of Josh Boys — @aneki — out of Perth, Western Australia.">
+<meta name="author" content="Josh Boys">
+<meta name="theme-color" content="#05070a">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Aneki's Software Shack">
+<meta property="og:description" content="Small sharp tools for agentic engineering.">
+<meta property="og:url" content="https://joshuaboys.github.io/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@aneki">
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2305070a'/%3E%3Ctext x='16' y='23' font-family='monospace' font-size='20' font-weight='bold' fill='%2300f0ff' text-anchor='middle'%3E%E1%9A%A2%3C/text%3E%3C/svg%3E">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="fx-grid" aria-hidden="true"></div>
+<div class="fx-scan" aria-hidden="true"></div>
+<div class="fx-vignette" aria-hidden="true"></div>
+
+<a class="skip" href="#featured">Skip to the wares</a>
+
+<header class="masthead">
+  <div class="shell">
+
+    <div class="boot" aria-label="Terminal session">
+      <p class="boot-line"><span class="prompt">%</span> ssh aneki@shack.arkahna.io</p>
+      <p class="boot-line"><span class="ok">➜</span> Connected. <span class="dim">tty/0 · 9600 baud · no logging</span></p>
+      <p class="boot-line"><span class="prompt">%</span> cat /etc/motd</p>
+    </div>
+
+    <h1 class="title" data-text="ANEKI'S SOFTWARE SHACK">
+      <span class="title-line">ANEKI'S</span>
+      <span class="title-line">SOFTWARE SHACK</span>
+    </h1>
+
+    <p class="tagline">
+      Small sharp tools for <span class="hl">agentic engineering</span>.
+      Mostly Rust, mostly terminal, mostly built because the thing I wanted didn't exist yet.
+    </p>
+
+    <dl class="readout">
+      <div class="readout-cell"><dt>Operator</dt><dd>josh_boys</dd></div>
+      <div class="readout-cell"><dt>Affiliation</dt><dd><a href="https://arkahna.io">Arkahna</a> · CEO</dd></div>
+      <div class="readout-cell"><dt>Node</dt><dd>Perth, WA</dd></div>
+      <div class="readout-cell"><dt>Obsession</dt><dd>Agentic Engineering</dd></div>
+      <div class="readout-cell"><dt>Status</dt><dd><span class="live-dot"></span>Trading</dd></div>
+    </dl>
+
+  </div>
+</header>
+
+<main class="shell">
+
+  <section id="featured" aria-labelledby="featured-h">
+    <div class="sec-head">
+      <h2 id="featured-h"><span class="slash">//</span> FEATURED_WARES</h2>
+      <p class="sec-note">Six things worth your clone.</p>
+    </div>
+    <ul class="cards" id="cards"></ul>
+  </section>
+
+  <section id="backroom" aria-labelledby="backroom-h">
+    <div class="sec-head">
+      <h2 id="backroom-h"><span class="slash">//</span> THE_BACK_ROOM</h2>
+      <p class="sec-note">Smaller stock. Experiments, scripts, and things built in one sitting.</p>
+    </div>
+    <ul class="stack" id="stack"></ul>
+  </section>
+
+  <section id="comms" aria-labelledby="comms-h">
+    <div class="sec-head">
+      <h2 id="comms-h"><span class="slash">//</span> COMMS</h2>
+      <p class="sec-note">Open channels.</p>
+    </div>
+    <ul class="comms" id="comms-list"></ul>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="shell">
+    <pre class="runes" aria-hidden="true">  === ᚢ · ᚦ · ᚲ ===</pre>
+    <p class="foot-line">
+      Empowering organisations to securely innovate by simplifying operational complexity.
+    </p>
+    <p class="foot-meta">
+      <span>Built in Perth, Western Australia</span>
+      <span class="sep">·</span>
+      <a href="https://github.com/joshuaboys/joshuaboys.github.io">Source</a>
+      <span class="sep">·</span>
+      <span>No trackers, no cookies, no analytics.</span>
+    </p>
+  </div>
+</footer>
+
+<script src="projects.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
